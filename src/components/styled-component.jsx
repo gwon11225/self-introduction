@@ -3,7 +3,6 @@ import styled from "styled-components";
 export const BackGround = styled.div`
     width: 100vw;
     height: 100vh;
-    padding-top: 15px;
 `;
 
 export const Card = styled.div`
